@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "email": "admin@example.com",
+    "password": "admin123",
+    "firstName": "Admin",
+    "lastName": "User",
+    "zip": "12345",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "email": "john@example.com",
+    "password": "pass123",
+    "firstName": "John",
+    "lastName": "Doe",
+    "zip": "67890",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "email": "jane@example.com",
+    "password": "pass456",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "zip": "54321",
+    "city": "Chicago"
+  }
+]
